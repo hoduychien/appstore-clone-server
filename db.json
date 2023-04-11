@@ -1,0 +1,251 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "name": "iPhone 14 Pro",
+      "description": "Product 1 description",
+      "price": "From $999",
+      "status": "new",
+      "colors": [
+        {
+          "id": "color-1",
+          "name": "Deep Purple",
+          "color": "#635a6d",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840578",
+          "quantity": 100,
+          "box": [
+            {
+              "id": 1,
+              "name": "iPhone 14 Pro",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-deeppurple-witb-202209?wid=173&hei=392&fmt=jpeg&qlt=95&.v=1660789320288"
+            },
+            {
+              "id": 2,
+              "name": "USB-C to Lightning Cable",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-cable-witb-202209?wid=92&hei=392&fmt=jpeg&qlt=95&.v=1660789319888"
+            }
+          ]
+        },
+        {
+          "id": "color-2",
+          "name": "Gold",
+          "color": "#f4e8ce",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-gold?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840519",
+          "quantity": 100,
+          "box": [
+            {
+              "id": 1,
+              "name": "iPhone 14 Pro",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-gold-witb-202209?wid=173&hei=392&fmt=jpeg&qlt=95&.v=1660789320283"
+            },
+            {
+              "id": 2,
+              "name": "USB-C to Lightning Cable",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-cable-witb-202209?wid=92&hei=392&fmt=jpeg&qlt=95&.v=1660789319888"
+            }
+          ]
+        },
+        {
+          "id": "color-3",
+          "name": "Silver",
+          "color": "#f1f3f2",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-silver?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840488",
+          "quantity": 100,
+          "box": [
+            {
+              "id": 1,
+              "name": "iPhone 14 Pro",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-silver-witb-202209?wid=173&hei=392&fmt=jpeg&qlt=95&.v=1660789320508"
+            },
+            {
+              "id": 2,
+              "name": "USB-C to Lightning Cable",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-cable-witb-202209?wid=92&hei=392&fmt=jpeg&qlt=95&.v=1660789319888"
+            }
+          ]
+        },
+        {
+          "id": "color-4",
+          "name": "Space Black",
+          "color": "#545251",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-spaceblack?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840510",
+          "quantity": 100,
+          "box": [
+            {
+              "id": 1,
+              "name": "iPhone 14 Pro",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-spaceblack-witb-202209?wid=173&hei=392&fmt=jpeg&qlt=95&.v=1660789320495"
+            },
+            {
+              "id": 2,
+              "name": "USB-C to Lightning Cable",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-cable-witb-202209?wid=92&hei=392&fmt=jpeg&qlt=95&.v=1660789319888"
+            }
+          ]
+        }
+      ],
+
+      "storage": [
+        {
+          "id": "storage-1",
+          "name": "128GB",
+          "description": "Storage 1 description",
+          "price": 999
+        },
+        {
+          "id": "storage-2",
+          "name": "256GB",
+          "description": "Storage 1 description",
+          "price": 1099
+        },
+        {
+          "id": "storage-3",
+          "name": "512GB",
+          "description": "Storage 1 description",
+          "price": 1299
+        },
+        {
+          "id": "storage-4",
+          "name": "1T",
+          "description": "Storage 1 description",
+          "price": 1499
+        }
+      ],
+      "categoriesId": 2,
+      "imageSlider": [
+        {
+          "id": 1,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-1-202209?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1660753619946"
+        },
+        {
+          "id": 2,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-2-202209_GEO_US?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1660753617560"
+        },
+        {
+          "id": 3,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-deeppurple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703841896"
+        },
+        {
+          "id": 4,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-deeppurple_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660754259262"
+        }
+      ],
+      "imageThumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone14pro-202209?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1663611329492",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Duy",
+      "lastName": "Chien",
+      "phone": "0987654321",
+      "country": "Vietnam",
+      "birthday": 1680674833667,
+      "email": "chienhoo20@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "createdAt": 1680674833667,
+      "updatedAt": 1680674833667
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Mac",
+      "tag": "mac",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-14-16-mac-nav-202301?wid=200&hei=130&fmt=png-alpha&.v=1670959891635",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667,
+      "thumb": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-50-compare-models-202203?wid=480&hei=500&fmt=p-jpg&qlt=95&.v=1664611622989"
+    },
+    {
+      "id": 2,
+      "name": "Iphone",
+      "tag": "iphone",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-iphone-nav-202209_GEO_US?wid=200&hei=130&fmt=png-alpha&.v=1661027785546",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
+    },
+    {
+      "id": 3,
+      "name": "Ipad",
+      "tag": "ipad",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-ipad-nav-202210?wid=200&hei=130&fmt=png-alpha&.v=1664912135437",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
+    },
+    {
+      "id": 4,
+      "name": "Apple Watch",
+      "tag": "apple-watch",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-watch-nav-202303?wid=200&hei=130&fmt=png-alpha&.v=1677701613598",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
+    },
+    {
+      "id": 5,
+      "name": "AirPods",
+      "tag": "airpods",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-airpods-nav-202209?wid=200&hei=130&fmt=png-alpha&.v=1660676485885",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
+    },
+    {
+      "id": 6,
+      "name": "AirTag",
+      "tag": "airtag",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-airtags-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783380000",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
+    },
+    {
+      "id": 7,
+      "name": "Apple TV 4K",
+      "tag": "apple-tv",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-appletv-nav-202210?wid=200&hei=130&fmt=png-alpha&.v=1664628458484",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
+    },
+    {
+      "id": 8,
+      "name": "HomePod",
+      "tag": "homepod",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-homepod-nav-202301?wid=200&hei=130&fmt=png-alpha&.v=1670389216654",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
+    },
+    {
+      "id": 9,
+      "name": "Accessories",
+      "tag": "accessories",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-accessories-nav-202303?wid=200&hei=130&fmt=png-alpha&.v=1677172796005",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
+    },
+    {
+      "id": 10,
+      "name": "Apple Gift Card",
+      "tag": "apple-gift-card",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-holiday-giftcards-asit-agc-nav-202111?wid=200&hei=130&fmt=png-alpha&.v=1653339351054",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "userId": 1,
+      "productId": 1,
+      "productName": 1,
+      "color": 1,
+      "storage": 1,
+      "price": 1,
+      "quantity": 1,
+      "payment": 1,
+      "createdAt": 1680674833667,
+      "updatedAt": 1680674833667
+    }
+  ]
+}
