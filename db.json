@@ -11,8 +11,9 @@
           "id": "color-1",
           "name": "Deep Purple",
           "color": "#635a6d",
-          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840578",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-deeppurple-select?",
           "quantity": 100,
+          "bagCover": "https://as-images.apple.com/is/iphone-14-pro-deeppurple-select_AV2?",
           "box": [
             {
               "id": 1,
@@ -30,8 +31,9 @@
           "id": "color-2",
           "name": "Gold",
           "color": "#f4e8ce",
-          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-gold?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840519",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-gold-select?",
           "quantity": 100,
+          "bagCover": "https://as-images.apple.com/is/iphone-14-pro-gold-select_AV2?",
           "box": [
             {
               "id": 1,
@@ -49,8 +51,9 @@
           "id": "color-3",
           "name": "Silver",
           "color": "#f1f3f2",
-          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-silver?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840488",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-silver-select?",
           "quantity": 100,
+          "bagCover": "https://as-images.apple.com/is/iphone-14-pro-silver-select_AV2?",
           "box": [
             {
               "id": 1,
@@ -68,8 +71,9 @@
           "id": "color-4",
           "name": "Space Black",
           "color": "#545251",
-          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-spaceblack?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703840510",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-spaceblack-select?",
           "quantity": 100,
+          "bagCover": "https://as-images.apple.com/is/iphone-14-pro-spaceblack-select_AV2?",
           "box": [
             {
               "id": 1,
@@ -84,7 +88,6 @@
           ]
         }
       ],
-
       "storage": [
         {
           "id": "storage-1",
@@ -133,6 +136,232 @@
       "imageThumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone14pro-202209?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1663611329492",
       "updatedAt": 1680674833667,
       "createdAt": 1680674833667
+    },
+    {
+      "id": 7,
+      "name": "iPhone SE",
+      "description": "Product 1 description",
+      "price": "From $429",
+      "status": "new",
+      "colors": [
+        {
+          "id": "color-1",
+          "name": "Midnight",
+          "color": "#635a6d",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-midnight-select-202203?",
+          "quantity": 100,
+          "bagCover": "https://as-images.apple.com/is/iphone-se-midnight-select-202203_AV2?",
+          "box": [
+            {
+              "id": 1,
+              "name": "iPhone SE",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-midnight-witb-202203?wid=190&hei=392&fmt=jpeg&qlt=95&.v=1644951336059"
+            },
+            {
+              "id": 2,
+              "name": "USB-C to Lightning Cable",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-cable-witb-202209?wid=92&hei=392&fmt=jpeg&qlt=95&.v=1660789319888"
+            }
+          ]
+        },
+        {
+          "id": "color-2",
+          "name": "Starlight",
+          "color": "#f4e8ce",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-starlight-select-202203?",
+          "quantity": 100,
+          "bagCover": "https://as-images.apple.com/is/iphone-se-starlight-select-202203_AV2?",
+          "box": [
+            {
+              "id": 1,
+              "name": "iPhone SE",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-gold-witb-202209?wid=173&hei=392&fmt=jpeg&qlt=95&.v=1660789320283"
+            },
+            {
+              "id": 2,
+              "name": "USB-C to Lightning Cable",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-cable-witb-202209?wid=92&hei=392&fmt=jpeg&qlt=95&.v=1660789319888"
+            }
+          ]
+        }
+      ],
+      "storage": [
+        {
+          "id": "storage-1",
+          "name": "64GB",
+          "description": "Storage 1 description",
+          "price": 429
+        },
+        {
+          "id": "storage-2",
+          "name": "128GB",
+          "description": "Storage 1 description",
+          "price": 479
+        },
+        {
+          "id": "storage-3",
+          "name": "256GB",
+          "description": "Storage 1 description",
+          "price": 579
+        }
+      ],
+      "categoriesId": 2,
+      "imageSlider": [
+        {
+          "id": 1,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-finish-select-202207-midnight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1655316263296"
+        },
+        {
+          "id": 2,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-finish-select-202207-midnight_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1655316262479"
+        },
+        {
+          "id": 3,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-finish-select-202207-midnight_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1655316265426"
+        },
+        {
+          "id": 4,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-finish-select-202207-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1655316263356"
+        }
+      ],
+      "imageThumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphonese-202203?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1646415838921",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
+    },
+    {
+      "id": 8,
+      "name": "iPhone 14",
+      "description": "Product 1 description",
+      "price": "From $799",
+      "status": "new",
+      "colors": [
+        {
+          "id": "color-1",
+          "name": "Blue",
+          "color": "#a6b9ca",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-blue-select-202209?",
+          "quantity": 100,
+          "bagCover": "https://as-images.apple.com/is/iphone-14-blue-select-202209_AV2?",
+          "box": [
+            {
+              "id": 1,
+              "name": "iPhone 14",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-blue-witb-202209?wid=172&hei=392&fmt=jpeg&qlt=95&.v=1660679135494"
+            },
+            {
+              "id": 2,
+              "name": "USB-C to Lightning Cable",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-cable-witb-202209?wid=92&hei=392&fmt=jpeg&qlt=95&.v=1660789319888"
+            }
+          ]
+        },
+        {
+          "id": "color-2",
+          "name": "Purple",
+          "color": "#e5ddea",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-purple-select-202209?",
+          "quantity": 100,
+          "bagCover": "https://as-images.apple.com/is/iphone-14-purple-select-202209_AV2?",
+          "box": [
+            {
+              "id": 1,
+              "name": "iPhone 14",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-purple-witb-202209?wid=172&hei=392&fmt=jpeg&qlt=95&.v=1660679147124"
+            },
+            {
+              "id": 2,
+              "name": "USB-C to Lightning Cable",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-cable-witb-202209?wid=92&hei=392&fmt=jpeg&qlt=95&.v=1660789319888"
+            }
+          ]
+        },
+        {
+          "id": "color-3",
+          "name": "Yellow",
+          "color": "#fff498",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-yellow-select-202303?",
+          "quantity": 100,
+          "bagCover": "https://as-images.apple.com/is/iphone-14-yellow-select-202303_AV2?",
+          "box": [
+            {
+              "id": 1,
+              "name": "iPhone 14",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-yellow-witb-202303?wid=172&hei=392&fmt=jpeg&qlt=95&.v=1676497929347"
+            },
+            {
+              "id": 2,
+              "name": "USB-C to Lightning Cable",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-cable-witb-202209?wid=92&hei=392&fmt=jpeg&qlt=95&.v=1660789319888"
+            }
+          ]
+        },
+        {
+          "id": "color-4",
+          "name": "Starlight",
+          "color": "#faf7f2",
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-starlight-select-202209?",
+          "quantity": 100,
+          "bagCover": "https://as-images.apple.com/is/iphone-14-starlight-select-202209_AV2?",
+          "box": [
+            {
+              "id": 1,
+              "name": "iPhone 14",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-starlight-witb-202209?wid=172&hei=392&fmt=jpeg&qlt=95&.v=1660679147124"
+            },
+            {
+              "id": 2,
+              "name": "USB-C to Lightning Cable",
+              "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-cable-witb-202209?wid=92&hei=392&fmt=jpeg&qlt=95&.v=1660789319888"
+            }
+          ]
+        }
+      ],
+      "storage": [
+        {
+          "id": "storage-1",
+          "name": "128GB",
+          "description": "Storage 1 description",
+          "price": 799
+        },
+        {
+          "id": "storage-2",
+          "name": "256GB",
+          "description": "Storage 1 description",
+          "price": 899
+        },
+        {
+          "id": "storage-3",
+          "name": "512GB",
+          "description": "Storage 1 description",
+          "price": 1099
+        }
+      ],
+      "categoriesId": 2,
+      "imageSlider": [
+        {
+          "id": 1,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026582322"
+        },
+        {
+          "id": 2,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-purple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027205808"
+        },
+        {
+          "id": 3,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-yellow?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1676505836714"
+        },
+        {
+          "id": 4,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026579503"
+        },
+        {
+          "id": 5,
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027204398"
+        }
+      ],
+      "imageThumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone14-202209?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1661958160674",
+      "updatedAt": 1680674833667,
+      "createdAt": 1680674833667
     }
   ],
   "users": [
@@ -144,7 +373,9 @@
       "country": "Vietnam",
       "birthday": 1680674833667,
       "email": "chienhoo20@gmail.com",
+      "image": "https://st3.depositphotos.com/1767687/16607/v/600/depositphotos_166074422-stock-illustration-default-avatar-profile-icon-grey.jpg",
       "password": "123456",
+      "address": "Hai Ba - Hai Lang - Quang Tri",
       "role": "admin",
       "createdAt": 1680674833667,
       "updatedAt": 1680674833667
@@ -233,19 +464,93 @@
       "createdAt": 1680674833667
     }
   ],
-  "cart": [
+  "orders": [
     {
-      "id": 1,
       "userId": 1,
-      "productId": 1,
-      "productName": 1,
-      "color": 1,
-      "storage": 1,
-      "price": 1,
-      "quantity": 1,
-      "payment": 1,
-      "createdAt": 1680674833667,
-      "updatedAt": 1680674833667
+      "email": "chienhoo20@gmail.com",
+      "phone": "0987654321",
+      "address": "Hai Ba - Hai Lang - Quang Tri",
+      "firstName": "Duy",
+      "lastName": "Chien",
+      "products": [
+        {
+          "id": "c2bf5f70-dade-11ed-be97-017db412a984",
+          "cartId": 7,
+          "product": "iPhone SE",
+          "color": "Midnight",
+          "type": {
+            "id": "storage-1",
+            "name": "64GB",
+            "description": "Storage 1 description",
+            "price": 429
+          },
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-midnight-select-202203?",
+          "quantity": 1
+        }
+      ],
+      "status": 1,
+      "total": "$429.00",
+      "updatedAt": 1681488686877,
+      "createdAt": 1681488686877,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "email": "chienhoo20@gmail.com",
+      "phone": "0987654321",
+      "address": "Hai Ba - Hai Lang - Quang Tri",
+      "firstName": "Duy",
+      "lastName": "Chien",
+      "products": [
+        {
+          "id": "6a8a43e0-db7b-11ed-a11f-3dfe4a0dfb1f",
+          "cartId": 6,
+          "product": "iPhone 14 Pro",
+          "color": "Deep Purple",
+          "type": {
+            "id": "storage-1",
+            "name": "128GB",
+            "description": "Storage 1 description",
+            "price": 999
+          },
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-deeppurple-select?",
+          "quantity": 2
+        }
+      ],
+      "status": 1,
+      "total": "$1,998.00",
+      "updatedAt": 1681555873147,
+      "createdAt": 1681555873147,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "email": "chienhoo20@gmail.com",
+      "phone": "0987654321",
+      "address": "Hai Ba - Hai Lang - Quang Tri",
+      "firstName": "Duy",
+      "lastName": "Chien",
+      "products": [
+        {
+          "id": "57a92ae0-db7e-11ed-a11f-3dfe4a0dfb1f",
+          "cartId": 7,
+          "product": "iPhone SE",
+          "color": "Midnight",
+          "type": {
+            "id": "storage-3",
+            "name": "256GB",
+            "description": "Storage 1 description",
+            "price": 579
+          },
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-midnight-select-202203?",
+          "quantity": 1
+        }
+      ],
+      "status": 1,
+      "total": "$579.00",
+      "updatedAt": 1681557125159,
+      "createdAt": 1681557125159,
+      "id": 4
     }
   ]
 }
