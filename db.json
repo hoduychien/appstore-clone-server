@@ -379,6 +379,20 @@
       "role": "admin",
       "createdAt": 1680674833667,
       "updatedAt": 1680674833667
+    },
+    {
+      "firstName": "Chien",
+      "lastName": "Duy",
+      "email": "chienhoo22@gmail.com",
+      "birthday": "07/06/2000",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "country": "",
+      "phone": "0762766682",
+      "role": "user",
+      "updatedAt": 1682072219886,
+      "createdAt": 1682072219886,
+      "id": 2
     }
   ],
   "categories": [
@@ -551,6 +565,92 @@
       "updatedAt": 1681557125159,
       "createdAt": 1681557125159,
       "id": 4
+    },
+    {
+      "userId": 1,
+      "email": "chienhoo20@gmail.com",
+      "phone": "0987654321",
+      "address": "Hai Ba - Hai Lang - Quang Tri",
+      "firstName": "Duy",
+      "lastName": "Chien",
+      "products": [
+        {
+          "id": "21544d80-df89-11ed-a946-39aa346f02b4",
+          "cartId": 8,
+          "product": "iPhone 14",
+          "color": "Blue",
+          "type": {
+            "id": "storage-1",
+            "name": "128GB",
+            "description": "Storage 1 description",
+            "price": 799
+          },
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-blue-select-202209?",
+          "quantity": 1
+        },
+        {
+          "id": "625bce40-e02c-11ed-98b7-8baa164eee14",
+          "cartId": 7,
+          "product": "iPhone SE",
+          "color": "Midnight",
+          "type": {
+            "id": "storage-1",
+            "name": "64GB",
+            "description": "Storage 1 description",
+            "price": 429
+          },
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-midnight-select-202203?",
+          "quantity": 1
+        },
+        {
+          "id": "65c07d10-e02c-11ed-98b7-8baa164eee14",
+          "cartId": 6,
+          "product": "iPhone 14 Pro",
+          "color": "Gold",
+          "type": {
+            "id": "storage-1",
+            "name": "128GB",
+            "description": "Storage 1 description",
+            "price": 999
+          },
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-gold-select?",
+          "quantity": 1
+        }
+      ],
+      "status": 1,
+      "total": "$2,227.00",
+      "updatedAt": 1682071688009,
+      "createdAt": 1682071688009,
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "email": "chienhoo22@gmail.com",
+      "phone": "0762766682",
+      "address": "Hai Ba - Hai Lang - Quang Tri",
+      "firstName": "Chien",
+      "lastName": "Duy",
+      "products": [
+        {
+          "id": "df464d30-e02d-11ed-96ad-85bbecfaa69b",
+          "cartId": 6,
+          "product": "iPhone 14 Pro",
+          "color": "Deep Purple",
+          "type": {
+            "id": "storage-2",
+            "name": "256GB",
+            "description": "Storage 1 description",
+            "price": 1099
+          },
+          "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-deeppurple-select?",
+          "quantity": 1
+        }
+      ],
+      "status": 1,
+      "total": "$1,099.00",
+      "updatedAt": 1682072800116,
+      "createdAt": 1682072800116,
+      "id": 6
     }
   ]
 }
